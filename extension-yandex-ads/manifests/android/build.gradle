@@ -19,6 +19,6 @@ android {
 }
 
 dependencies {
-    implementation 'com.yandex.android:mobileads:7.12.0'
-    implementation 'com.yandex.android:mobileads-mediation:7.12.0.0'
+    implementation 'com.yandex.android:mobileads:7.14.1'
+    implementation 'com.yandex.android:mobileads-mediation:7.14.1.0'
 }
